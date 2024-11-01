@@ -1,3 +1,3 @@
-module github.com/lunixbochs/struc
+module github.com/gaba-xyz/struc
 
 go 1.12
